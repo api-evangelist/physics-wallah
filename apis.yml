@@ -1,9 +1,30 @@
 aid: physics-wallah
 name: Physics Wallah
-description: Physics Wallah is a company surfaced as a portfolio company of lightspeed-venture-partners
-  and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the
-  enrichment pipeline.
+description: >-
+  Physics Wallah (PW) is India's leading affordable education technology platform, offering
+  live and recorded courses, test series, notes, and doubt-solving for competitive exams
+  (IIT JEE, NEET, GATE, UPSC), government job preparation (SSC, Banking, Railways, Defence),
+  school boards (CBSE, ICSE, and regional boards), and professional certifications (CA, CS,
+  CFA, ACCA). Beyond its flagship pw.live learning app it operates PW Skills for professional
+  upskilling, PW Store for books and study material, CuriousJr for younger grades, and 100+
+  offline Vidyapeeth and Pathshala centres across 175+ cities. Physics Wallah reached unicorn
+  status in 2022 and serves tens of millions of students. It was surfaced in the API Evangelist
+  network as a portfolio company of Lightspeed Venture Partners. Physics Wallah does not
+  publish an official public developer portal or API program; the company's public technology
+  footprint is a set of open-source infrastructure libraries under its tech-pw GitHub org.
 url: https://raw.githubusercontent.com/api-evangelist/physics-wallah/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://static.pw.live/5eb393ee95fab7468a79d189/b14fb7f0-5b34-4aea-a602-bfbad4adce9c.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,12 +33,39 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Education
+- EdTech
+- E-Learning
+- Online Courses
+- Test Prep
+- India
+- Consumer
 apis: []
+common:
+- type: DomainSecurity
+  url: security/physics-wallah-domain-security.yml
+- type: Website
+  url: https://www.pw.live/
+- type: About
+  url: https://www.pw.live/about-us
+- type: Support
+  url: https://www.pw.live/contact-us
+- type: PrivacyPolicy
+  url: https://www.pw.live/privacy-policy
+- type: TermsOfService
+  url: https://www.pw.live/terms-and-conditions
+- type: GitHubOrganization
+  url: https://github.com/tech-pw
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1
