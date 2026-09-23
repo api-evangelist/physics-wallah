@@ -1,0 +1,26 @@
+# Front Door AI Index — physics-wallah — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: physics-wallah
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.pw.live
+  final_host: www.pw.live
+  ownership: own
+  owner: physics-wallah
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 4
+  host_score: 4
+  density: 2.36
+  words: 1698
+  tiers:
+    agentic: 0
+    core: 4
+    model: 0
+  ambiguous: 0
+  top_terms:
+    AI: 3
+    ML: 1
