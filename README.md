@@ -64,6 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Physics Wallah is a company surfaced as a portfolio company of lightspeed-venture-partners and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Physics Wallah (PW) is India's leading affordable education technology platform, offering live and recorded courses, test series, notes, and doubt-solving for competitive exams (IIT JEE, NEET, GATE, UPSC), government job preparation (SSC, Banking, Railways, Defence), school boards (CBSE, ICSE, and regional boards), and professional certifications (CA, CS, CFA, ACCA). Beyond its flagship pw.live learning app it operates PW Skills for professional upskilling, PW Store for books and study material, CuriousJr for younger grades, and 100+ offline Vidyapeeth and Pathshala centres across 175+ cities. Physics Wallah reached unicorn status in 2022 and serves tens of millions of students. It was surfaced in the API Evangelist network as a portfolio company of Lightspeed Venture Partners. Physics Wallah does not publish an official public developer portal or API program; the company's public technology footprint is a set of open-source infrastructure libraries under its tech-pw GitHub org.
 
-Backed by: lightspeed-venture-partners
+**Areas:** Company · Education · EdTech · E-Learning · Online Courses · Test Prep · India · Consumer
+
+## Physics Wallah on APIs.io
+
+Everything profiled for Physics Wallah is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/physics-wallah/](https://apis.io/providers/physics-wallah/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Physics Wallah Domain Security](https://apis.io/security/physics-wallah/physics-wallah-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.pw.live/)
+- [Support](https://www.pw.live/contact-us)
+- [Terms of service](https://www.pw.live/terms-and-conditions)
+- [Privacy policy](https://www.pw.live/privacy-policy)
+- [GitHub](https://github.com/tech-pw)
+
+## API Evangelist rating
+
+**Kin Score 9.6** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 4.8 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Education & Research
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/physics-wallah/](https://apis.io/providers/physics-wallah/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Physics Wallah: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/physics-wallah/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
